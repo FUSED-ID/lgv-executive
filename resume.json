@@ -1,0 +1,131 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "basics": {
+    "name": "Leon-Gerard Vandenberg",
+    "label": "AI-First Renewable Energy and Digital Grid Executive",
+    "email": "lgv@sunified.ai",
+    "url": "https://lgv.sunified.ai",
+    "summary": "AI-first CEO/CTO and founder-operator with 29+ years building trusted edge infrastructure across wireless, embedded security, SIM/eSIM, industrial IoT, fintech, and cloud-connected platforms. The last 8 years have focused on renewable-energy platforms, solar and storage asset intelligence, secure panel-level telemetry, VPP logic, and grid-grade data infrastructure.",
+    "location": {
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "countryCode": "NL"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "leongvandenberg",
+        "url": "https://www.linkedin.com/in/leongvandenberg/"
+      },
+      {
+        "network": "GitHub",
+        "username": "FUSED-ID",
+        "url": "https://github.com/FUSED-ID"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sunified Group BV / Sunified Technologies BV",
+      "position": "Chief Executive Officer / Chief Technology Officer",
+      "url": "https://sunified.com/",
+      "startDate": "2020-01",
+      "summary": "Leads Sunified's clean energy data infrastructure and hardware trust platform, turning solar and storage assets into secure, high-fidelity data nodes.",
+      "highlights": [
+        "Developed the UNITY / Edge ID thesis: secure panel-level telemetry, source data provenance, and edge-to-cloud services for renewable asset intelligence.",
+        "Advanced the Solar Operations Oceania 255 MW distributed solar park / VPP model: 51 x 5 MW solar parks connected to Australia's National Energy Market with storage and dispatch logic.",
+        "Frames renewable assets as financeable digital infrastructure: measurable at source, more insurable, more bankable, and more operationally useful to grid stakeholders.",
+        "Operates as an AI-first executive using durable memory, agent harnesses, structured research workflows, and automation to compound strategy, outreach, and execution."
+      ]
+    },
+    {
+      "name": "Solara Group",
+      "position": "Chief Technology Officer / Core Technology Founder",
+      "startDate": "2016-10",
+      "endDate": "2020-01",
+      "summary": "Built the predecessor renewable-energy data platform around secure hardware modules, proof of green energy production, and energy provenance.",
+      "highlights": [
+        "Connected solar hardware, energy data, blockchain-era provenance concepts, and financeability into the thesis that solar farms become high-fidelity energy data centers.",
+        "Led technical narrative across solar IoT, energy data, investor communication, and platform architecture."
+      ]
+    },
+    {
+      "name": "Fuzo Limited",
+      "position": "Founder / Chief Technology Officer",
+      "startDate": "2014-08",
+      "endDate": "2022-10",
+      "summary": "SIM/eSIM, HD wallet, financial inclusion, secure identity and value transfer at the mobile edge."
+    },
+    {
+      "name": "TDA Tech",
+      "position": "CEO / COO / CTO",
+      "startDate": "2005-04",
+      "endDate": "2008-12",
+      "summary": "Trusted Digital Authentication, secure wireless M2M, TOSIM lineage, China manufacturing/R&D."
+    },
+    {
+      "name": "AirWave Wireless",
+      "position": "Chief Technology Officer",
+      "startDate": "2001-01",
+      "endDate": "2001-09",
+      "summary": "Silicon Valley WiFi infrastructure, 802.1X / EAP-SIM, Microsoft/Cisco/Intel ecosystem."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wilfrid Laurier University",
+      "area": "Business Administration",
+      "studyType": "M.B.A."
+    },
+    {
+      "institution": "University of Waterloo",
+      "area": "Systems Design Engineering",
+      "studyType": "B.A.Sc."
+    },
+    {
+      "institution": "Creative Destruction Lab / Rotman ecosystem",
+      "area": "Blockchain and AI",
+      "studyType": "Scale Up Program"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Digital Grid and Renewable Energy",
+      "keywords": [
+        "grid modernization",
+        "renewable integration",
+        "solar asset intelligence",
+        "storage",
+        "virtual power plants",
+        "grid-grade data"
+      ]
+    },
+    {
+      "name": "Trusted Edge Infrastructure",
+      "keywords": [
+        "secure edge telemetry",
+        "industrial IoT",
+        "SIM/eSIM",
+        "embedded security",
+        "wireless infrastructure",
+        "hardware-rooted identity"
+      ]
+    },
+    {
+      "name": "AI-First Executive Operating Systems",
+      "keywords": [
+        "gBrain-style durable memory",
+        "Codex workflows",
+        "Hermes workflows",
+        "agent harnesses",
+        "campaign automation",
+        "strategy-to-action systems"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://lgv.sunified.ai",
+    "preferredCampaignEmail": "lgv@sunified.ai",
+    "lastUpdated": "2026-06-27"
+  }
+}
