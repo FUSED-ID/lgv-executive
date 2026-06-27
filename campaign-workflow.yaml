@@ -1,0 +1,120 @@
+campaign:
+  owner: "Leon Gerard Vandenberg"
+  positioning: "AI-First Renewable Energy and Digital Grid Executive"
+  source_repo_recommendation: "FUSED-ID/lgv-executive"
+  public_url: "https://lgv.sunified.ai"
+  public_site_host_recommendation: "GitHub Pages first; Infomaniak Web Hosting for sovereign production"
+  agent_orchestrator_recommendation: "Hermes"
+  knowledge_base: "gbrain"
+  google_workspace_cli: "gog"
+
+guardrails:
+  - "No email send without Leon approval."
+  - "No LinkedIn edit without Leon approval."
+  - "No GitHub repo creation or push without Leon approval."
+  - "No sensitive Sunified IP, investor pipeline, or tokenization detail in first-send materials."
+  - "Use current public sources for target-company claims."
+
+proof_pillars:
+  renewables_grid:
+    - "Sunified solar asset intelligence"
+    - "Secure panel-level telemetry"
+    - "Storage/VPP logic"
+    - "Grid-grade data infrastructure"
+  trusted_edge:
+    - "Wireless infrastructure"
+    - "SIM/eSIM"
+    - "Embedded security"
+    - "Industrial IoT"
+  executive_ownership:
+    - "CEO/CTO"
+    - "Founder-operator"
+    - "Global company building"
+    - "Partner, investor, and board communication"
+  strategic_translation:
+    - "Hiring committee positioning"
+    - "Partner ecosystem narrative"
+    - "Complex technology translated into operating value"
+  agentic_execution:
+    - "AI-first executive operating model"
+    - "gBrain-style durable memory"
+    - "Codex/Hermes workflow harnesses"
+    - "Self-determined tooling and campaign systems"
+
+target_lanes:
+  digital_grid_platforms:
+    companies:
+      - "Siemens Energy"
+      - "Schneider Electric"
+      - "GE Vernova"
+    packet_focus:
+      - "Digital grid"
+      - "DERMS"
+      - "Grid automation"
+      - "Energy management software"
+      - "Edge-to-cloud telemetry"
+  renewables_operators:
+    companies:
+      - "RWE Clean Energy"
+      - "NextEra Energy Resources"
+      - "T1 Energy"
+    packet_focus:
+      - "Solar/storage asset intelligence"
+      - "Utility-scale renewables"
+      - "VPP and dispatch logic"
+      - "Bankability and operational resilience"
+  semiconductor_edge:
+    companies:
+      - "Silicon Labs"
+    packet_focus:
+      - "Secure wireless edge"
+      - "Industrial IoT"
+      - "Smart solar and battery storage"
+      - "Trusted telemetry"
+  storage_grid_reliability:
+    companies:
+      - "Tesla Energy"
+      - "Fluence"
+      - "Vistra"
+      - "NRG"
+    packet_focus:
+      - "Storage optimization"
+      - "ERCOT and grid reliability"
+      - "AI-power infrastructure"
+      - "VPP software"
+
+workflow:
+  intake:
+    trigger:
+      - "Recruiter email"
+      - "LinkedIn message"
+      - "Target company identified"
+      - "Warm intro"
+    output:
+      - "Opportunity record"
+      - "Go/no-go recommendation"
+  fit_matrix:
+    output:
+      - "8-12 bullet fit matrix"
+      - "Proof-pillar map"
+      - "Risk notes"
+  packet_build:
+    output:
+      - "Short email"
+      - "Cover letter"
+      - "Focused CV bullets"
+      - "One-page profile"
+      - "Follow-up cadence"
+  approval_gate:
+    approver: "Leon"
+    decisions:
+      - "send"
+      - "revise"
+      - "hold"
+      - "kill"
+  follow_up:
+    cadence:
+      day_2_or_3: "value hook"
+      day_7: "availability and next-step prompt"
+      day_14: "final nudge"
+      monthly: "keep-warm signal"
