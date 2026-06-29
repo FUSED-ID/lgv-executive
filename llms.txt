@@ -5,6 +5,7 @@
 Canonical site: https://lgv.sunified.ai/
 Preferred campaign email: lgv@sunified.ai
 LinkedIn: https://www.linkedin.com/in/leongvandenberg/
+X: https://x.com/Leon_Vandenberg
 Sunified: https://sunified.com/
 GitHub source: https://github.com/FUSED-ID/lgv-executive
 
